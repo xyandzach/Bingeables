@@ -1,0 +1,17 @@
+.main-row {
+    display: flex;
+    height: 80vh;
+}
+  
+.side-col {
+    flex: 25%;
+    padding: 10px;
+    height: 100%; 
+}
+
+.middle-col {
+    flex: 50%;
+    padding: 10px;
+    height: 100%; 
+}
+
